@@ -1,0 +1,43 @@
+.frame {
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    background-color: linen;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 800px;
+    width: 100%;
+  }
+  
+  
+
+  h3 {
+    color: #333; 
+  }
+  
+ 
+  .table {
+    background-color: #fff;
+  }
+
+  .table thead th {
+    color: #fff; 
+    background-color: linen
+  }
+  
+ 
+  .table tbody td {
+    color: #333;
+  }
+  
+ 
+  .btn-primary {
+    background-color: #007bff; 
+    border-color: #007bff; 
+  }
+  
+
+  .btn-primary:hover {
+    color: #fff;
+  }
